@@ -1,16 +1,14 @@
-## Hi there 👋
+Hey there!🫡
 
-<!--
-**abhiofficial96-block/abhiofficial96-block** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Abhishek, a web3 developer working on blockchain.
 
-Here are some ideas to get you started:
+I’m currently working on making smart contracts more secured and gas optimized.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m currently learning oracle fundamentals and Hyperledger.
+
+<H1>Code with Lesser Gas</H1>
+
+My main tech stack is react and solidity.Writing bunch of codes that urges to solve the real issues.
+
+
+
