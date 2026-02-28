@@ -1,4 +1,4 @@
-# Hi, I'm Abhishek!👋
+# Hi, I'm Abhishek! 👋
 
 I am a Blockchain Developer focused on the intersection of **security**, **gas optimization**, and **user experience**. I build efficient smart contracts and integrate them with responsive React frontends.
 
@@ -17,7 +17,7 @@ My primary goal is reducing execution costs without compromising security. I am 
 | :--- | :--- |
 | **Core** | ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=flat&logo=solidity&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) |
 | **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
-| **Blockchain** | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white) ![Hardhat](https://img.shields.io/badge/Hardhat-yellow?style=flat&logo=hardhat&logoColor=white) |
+| **Blockchain** | ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=Ethereum&logoColor=white) ![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat&logo=ethereum&logoColor=white) |
 | **Learning** | ![Hyperledger](https://img.shields.io/badge/hyperledger-2F3134?style=flat&logo=hyperledger&logoColor=white) ![Chainlink](https://img.shields.io/badge/Chainlink-375BD2?style=flat&logo=Chainlink&logoColor=white) |
 
 ---
@@ -25,9 +25,9 @@ My primary goal is reducing execution costs without compromising security. I am 
 ### ⚡ Gas Optimization Philosophy
 > "Code is money on the blockchain."
 
-I urge to solve real-world scalability issues by writing logic that respects the user's gas. My repositories focus on:
-- Minimizing storage operations.
-- Optimized mathematical operations.
-- Security-first architecture.
+I strive to solve real-world scalability issues by writing logic that respects the user's gas. My repositories focus on:
+- **Minimizing Storage Operations:** Efficient use of SSTORE and SLOAD.
+- **Optimized Math:** Utilizing bitwise operations and unchecked blocks where safe.
+- **Security-First Architecture:** Leveraging Foundry's fuzzing capabilities to ensure edge cases are gas-efficient and secure.
 
 ---
